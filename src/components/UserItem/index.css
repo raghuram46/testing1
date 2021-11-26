@@ -1,0 +1,31 @@
+.user-item {
+  background-color: rgb(191, 219, 219);
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px;
+}
+
+.user-title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  color: rgb(37, 37, 43);
+  font-size: 28px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.user {
+  color: rgb(37, 37, 43);
+  font-size: 24px;
+  font-weight: 400;
+  font-family: 'Roboto';
+}
+
+.body {
+  color: rgb(66, 66, 71);
+  font-size: 22px;
+  font-family: 'Roboto';
+}

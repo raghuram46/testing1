@@ -1,0 +1,32 @@
+.failure-text {
+  color: blue;
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.user-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.logout-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 6px;
+  font-size: 18px;
+  background-color: blue;
+  color: white;
+  align-self: flex-end;
+  padding: 5px 15px 5px 15px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
